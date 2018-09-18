@@ -1,0 +1,14 @@
+{
+  "name": "leave_calculator",
+  "version": "1.0.0",
+  "description": "calculate parental leave date 4 months from input date",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "moment": "^2.22.2"
+  }
+}
