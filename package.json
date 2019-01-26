@@ -10,5 +10,11 @@
   "license": "ISC",
   "dependencies": {
     "moment": "^2.22.2"
+  },
+  "devDependencies": {
+    "jest": "^24.0.0"
+  },
+  "scripts":{
+    "test":"jest --watch"
   }
 }

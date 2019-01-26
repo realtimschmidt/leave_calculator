@@ -1,5 +1,5 @@
-calculate date 4 months from input date
+# Leave Calculator
 
-calculate date 17 weeks from input date
+Leave Calculator determines return-to-work date for employees out on leave (e.g parental leave, FMLA, short term disability) 
 
-calculate date 120 days from input date
+It can be used at work, at home, from any computer, and from any mobile device
